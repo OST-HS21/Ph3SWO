@@ -1,0 +1,1187 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.13)  13 NOV 2022 15:31
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Physik3.tex
+(./Physik3.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-05-07>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen139
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count187
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count188
+\leftroot@=\count189
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count190
+\DOTSCASE@=\count191
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count192
+\c@MaxMatrixCols=\count193
+\dotsspace@=\muskip16
+\c@parentequation=\count194
+\dspbrk@lvl=\count195
+\tag@help=\toks18
+\row@=\count196
+\column@=\count197
+\maxfields@=\count198
+\andhelp@=\toks19
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen150
+\WF@size=\dimen151
+\c@WF@wrappedlines=\count199
+\WF@box=\box49
+\WF@everypar=\toks23
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-05-07 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count266
+\l__pdf_internal_box=\box50
+))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.st
+y (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex
+)))
+Package: siunitx 2021-04-17 v2.8e A comprehensive (SI) units package
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen152
+\ar@mcellbox=\box51
+\extrarowheight=\dimen153
+\NC@list=\toks24
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2021-05-07 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box53
+\l__siunitx_tmp_dim=\dimen154
+\l__siunitx_tmp_int=\count267
+\l__siunitx_number_mantissa_length_int=\count268
+\l__siunitx_number_uncert_length_int=\count269
+\l__siunitx_round_int=\count270
+\l__siunitx_process_decimal_int=\count271
+\l__siunitx_process_uncertainty_int=\count272
+\l__siunitx_process_fixed_int=\count273
+\l__siunitx_process_integer_min_int=\count274
+\l__siunitx_process_precision_int=\count275
+\l__siunitx_group_min_int=\count276
+\l__siunitx_angle_marker_box=\box54
+\l__siunitx_angle_unit_box=\box55
+\l__siunitx_angle_marker_dim=\dimen155
+\l__siunitx_angle_unit_dim=\dimen156
+\l__siunitx_unit_int=\count277
+\l__siunitx_unit_denominator_int=\count278
+\l__siunitx_unit_numerator_int=\count279
+\l__siunitx_unit_prefix_int=\count280
+\l__siunitx_unit_prefix_base_int=\count281
+\l__siunitx_unit_prefix_gram_int=\count282
+\l__siunitx_number_product_int=\count283
+\c__siunitx_one_fill_skip=\skip54
+\l__siunitx_table_unit_align_skip=\skip55
+\l__siunitx_table_exponent_dim=\dimen157
+\l__siunitx_table_integer_dim=\dimen158
+\l__siunitx_table_mantissa_dim=\dimen159
+\l__siunitx_table_marker_dim=\dimen160
+\l__siunitx_table_result_dim=\dimen161
+\l__siunitx_table_uncert_dim=\dimen162
+\l__siunitx_table_fill_pre_dim=\dimen163
+\l__siunitx_table_fill_post_dim=\dimen164
+\l__siunitx_table_fill_mid_dim=\dimen165
+\l__siunitx_table_pre_box=\box56
+\l__siunitx_table_post_box=\box57
+\l__siunitx_table_mantissa_box=\box58
+\l__siunitx_table_result_box=\box59
+\l__siunitx_table_number_align_skip=\skip56
+\l__siunitx_table_text_align_skip=\skip57
+
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2020-08-03 v1.12c Easy translation of strings in LaTeX
+))
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks25
+\XKV@tempa@toks=\toks26
+)
+\XKV@depth=\count284
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box60
+)
+\tc@llx=\dimen166
+\tc@lly=\dimen167
+\tc@urx=\dimen168
+\tc@ury=\dimen169
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen170
+\adjbox@Height=\dimen171
+\adjbox@Depth=\dimen172
+\adjbox@Totalheight=\dimen173
+\adjbox@pwidth=\dimen174
+\adjbox@pheight=\dimen175
+\adjbox@pdepth=\dimen176
+\adjbox@ptotalheight=\dimen177
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count285
+)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box61
+\sift@deathcycles=\count286
+\@vwid@loff=\dimen178
+\@vwid@roff=\dimen179
+))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count287
+\Gm@cntv=\count288
+\c@Gm@tempcnt=\count289
+\Gm@bindingoffset=\dimen180
+\Gm@wd@mp=\dimen181
+\Gm@odd@mp=\dimen182
+\Gm@even@mp=\dimen183
+\Gm@layoutwidth=\dimen184
+\Gm@layoutheight=\dimen185
+\Gm@layouthoffset=\dimen186
+\Gm@layoutvoffset=\dimen187
+\Gm@dimlist=\toks27
+) (./Physik3.aux)
+\openout1 = `Physik3.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count290
+\scratchdimen=\dimen188
+\scratchbox=\box62
+\nofMPsegments=\count291
+\nofMParguments=\count292
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count293
+\MPscratchDim=\dimen189
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
+\everyMPtoPDFconversion=\toks29
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2021-04-17 v2.8e siunitx: Abbreviated units
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
+-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape twoside 
+* h-part:(L,W,R)=(28.45274pt, 788.14136pt, 28.45274pt)
+* v-part:(T,H,B)=(14.22636pt, 540.60239pt, 42.67912pt)
+* \paperwidth=845.04684pt
+* \paperheight=597.50787pt
+* \textwidth=788.14136pt
+* \textheight=540.60239pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-95.04362pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=54.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(./Sections/Optik.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+<Images/reflexionsgesetz.png, id=1, 590.205pt x 434.62375pt>
+File: Images/reflexionsgesetz.png Graphic file (type png)
+<use Images/reflexionsgesetz.png>
+Package pdftex.def Info: Images/reflexionsgesetz.png  used on input line 12.
+(pdftex.def)             Requested size: 77.26968pt x 56.9055pt.
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 5--14
+ []$$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+<Images/brechungsgesetz.png, id=3, 371.3875pt x 379.4175pt>
+File: Images/brechungsgesetz.png Graphic file (type png)
+<use Images/brechungsgesetz.png>
+Package pdftex.def Info: Images/brechungsgesetz.png  used on input line 35.
+(pdftex.def)             Requested size: 55.70004pt x 56.9055pt.
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 24--37
+ []$$[]$ 
+ []
+
+<Images/totalreflexion.png, id=4, 370.38374pt x 382.42876pt>
+File: Images/totalreflexion.png Graphic file (type png)
+<use Images/totalreflexion.png>
+Package pdftex.def Info: Images/totalreflexion.png  used on input line 49.
+(pdftex.def)             Requested size: 55.10867pt x 56.9055pt.
+<Images/einfalswinkel.png, id=5, 1015.795pt x 262.9825pt>
+File: Images/einfalswinkel.png Graphic file (type png)
+<use Images/einfalswinkel.png>
+Package pdftex.def Info: Images/einfalswinkel.png  used on input line 50.
+(pdftex.def)             Requested size: 219.80214pt x 56.9055pt.
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 45--52
+ []$$[]$ 
+ []
+
+<Images/prisma.png, id=6, 529.98pt x 366.36874pt>
+File: Images/prisma.png Graphic file (type png)
+<use Images/prisma.png>
+Package pdftex.def Info: Images/prisma.png  used on input line 74.
+(pdftex.def)             Requested size: 123.46976pt x 85.35826pt.
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 66--76
+ []$$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--82
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--92
+[][][][][][]
+ []
+
+<Images/lichtwellenleiter.png, id=7, 417.56pt x 241.90375pt>
+File: Images/lichtwellenleiter.png Graphic file (type png)
+<use Images/lichtwellenleiter.png>
+Package pdftex.def Info: Images/lichtwellenleiter.png  used on input line 94.
+(pdftex.def)             Requested size: 147.33963pt x 85.35826pt.
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 86--96
+ []$$[]$ 
+ []
+
+<Images/dispersion_graph.png, id=8, 989.6975pt x 879.285pt>
+File: Images/dispersion_graph.png Graphic file (type png)
+<use Images/dispersion_graph.png>
+Package pdftex.def Info: Images/dispersion_graph.png  used on input line 104.
+(pdftex.def)             Requested size: 160.1217pt x 142.26378pt.
+<Images/dispersion_prisma.png, id=9, 924.45375pt x 438.63875pt>
+File: Images/dispersion_prisma.png Graphic file (type png)
+<use Images/dispersion_prisma.png>
+Package pdftex.def Info: Images/dispersion_prisma.png  used on input line 107.
+(pdftex.def)             Requested size: 179.89394pt x 85.35826pt.
+
+Overfull \hbox (44.40947pt too wide) in paragraph at lines 103--109
+ []$$[]$ 
+ []
+
+
+Underfull \vbox (badness 4229) has occurred while \output is active []
+
+ [1
+
+{/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): invalid entry for `pcrr8rn': SlantFont/ExtendFont ca
+n be used only with embedded Type1 fonts
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rpxpplb' already exists, duplicat
+es ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rpxpplbi' already exists, duplica
+tes ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rpxpplbo' already exists, duplica
+tes ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rpxpplr' already exists, duplicat
+es ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rpxpplri' already exists, duplica
+tes ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rpxpplro' already exists, duplica
+tes ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxphvb' already exists, duplicat
+es ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxphvbo' already exists, duplica
+tes ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxphvr' already exists, duplicat
+es ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxphvro' already exists, duplica
+tes ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxptmb' already exists, duplicat
+es ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxptmbi' already exists, duplica
+tes ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxptmbo' already exists, duplica
+tes ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxptmr' already exists, duplicat
+es ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxptmri' already exists, duplica
+tes ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxptmro' already exists, duplica
+tes ignored
+} <./Images/reflexionsgesetz.png> <./Images/brechungsgesetz.png> <./Images/tota
+lreflexion.png> <./Images/einfalswinkel.png> <./Images/prisma.png> <./Images/li
+chtwellenleiter.png> <./Images/dispersion_graph.png> <./Images/dispersion_prism
+a.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 118--124
+
+ []
+
+<Images/planspiegel.png, id=35, 760.8425pt x 587.19376pt>
+File: Images/planspiegel.png Graphic file (type png)
+<use Images/planspiegel.png>
+Package pdftex.def Info: Images/planspiegel.png  used on input line 129.
+(pdftex.def)             Requested size: 110.59215pt x 85.35826pt.
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 136--144
+ []$$[]$ 
+ []
+
+<Images/konkavspiegel1.png, id=36, 674.52pt x 427.5975pt>
+File: Images/konkavspiegel1.png Graphic file (type png)
+<use Images/konkavspiegel1.png>
+Package pdftex.def Info: Images/konkavspiegel1.png  used on input line 150.
+(pdftex.def)             Requested size: 134.6443pt x 85.35826pt.
+<Images/konkavspiegel2.png, id=37, 674.52pt x 364.36125pt>
+File: Images/konkavspiegel2.png Graphic file (type png)
+<use Images/konkavspiegel2.png>
+Package pdftex.def Info: Images/konkavspiegel2.png  used on input line 155.
+(pdftex.def)             Requested size: 158.01819pt x 85.35826pt.
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 147--157
+ []$$[]$ 
+ []
+
+<Images/konvexspiegel.png, id=38, 1002.74625pt x 567.11874pt>
+File: Images/konvexspiegel.png Graphic file (type png)
+<use Images/konvexspiegel.png>
+Package pdftex.def Info: Images/konvexspiegel.png  used on input line 162.
+(pdftex.def)             Requested size: 150.91037pt x 85.35826pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--176
+
+ []
+
+
+Overfull \hbox (83.8069pt too wide) in paragraph at lines 168--186
+ []$$[]$ 
+ []
+
+<Images/buendelndelinse.png, id=39, 888.31876pt x 373.395pt>
+File: Images/buendelndelinse.png Graphic file (type png)
+<use Images/buendelndelinse.png>
+Package pdftex.def Info: Images/buendelndelinse.png  used on input line 191.
+(pdftex.def)             Requested size: 203.06198pt x 85.35826pt.
+<Images/streuendelinse.png, id=40, 639.38875pt x 327.2225pt>
+File: Images/streuendelinse.png Graphic file (type png)
+<use Images/streuendelinse.png>
+Package pdftex.def Info: Images/streuendelinse.png  used on input line 196.
+(pdftex.def)             Requested size: 166.7835pt x 85.35826pt.
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 189--198
+ []$$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--220
+
+ []
+
+<Images/sehwinkel.png, id=41, 727.71875pt x 168.63pt>
+File: Images/sehwinkel.png Graphic file (type png)
+<use Images/sehwinkel.png>
+Package pdftex.def Info: Images/sehwinkel.png  used on input line 222.
+(pdftex.def)             Requested size: 245.56671pt x 56.9055pt.
+
+Overfull \hbox (9.1219pt too wide) in paragraph at lines 222--223
+[][] 
+ []
+
+
+Overfull \hbox (4.99998pt too wide) in paragraph at lines 216--224
+ []$$[]$ 
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 233--239
+[][][][][][][] [][][][][][] [][][][][][]
+ []
+
+<Images/kamera.png, id=42, 1098.1025pt x 509.905pt>
+File: Images/kamera.png Graphic file (type png)
+<use Images/kamera.png>
+Package pdftex.def Info: Images/kamera.png  used on input line 241.
+(pdftex.def)             Requested size: 183.80972pt x 85.35826pt.
+
+Overfull \hbox (52.28654pt too wide) in paragraph at lines 232--243
+ []$$[]$ 
+ []
+
+[2 <./Images/planspiegel.png> <./Images/konkavspiegel1.png> <./Images/konkavspi
+egel2.png> <./Images/konvexspiegel.png> <./Images/buendelndelinse.png> <./Image
+s/streuendelinse.png> <./Images/sehwinkel.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 247--254
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--262
+
+ []
+
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 246--263
+ []$$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--282
+
+ []
+
+<Images/lupe.png, id=55, 734.745pt x 249.93375pt>
+File: Images/lupe.png Graphic file (type png)
+<use Images/lupe.png>
+Package pdftex.def Info: Images/lupe.png  used on input line 284.
+(pdftex.def)             Requested size: 167.28368pt x 56.9055pt.
+<Images/deutliche_sichtweite.png, id=56, 1088.065pt x 246.9225pt>
+File: Images/deutliche_sichtweite.png Graphic file (type png)
+<use Images/deutliche_sichtweite.png>
+Package pdftex.def Info: Images/deutliche_sichtweite.png  used on input line 28
+5.
+(pdftex.def)             Requested size: 250.74776pt x 56.9055pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--286
+[][]
+ []
+
+
+Overfull \hbox (14.30295pt too wide) in paragraph at lines 284--286
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--300
+[][][][][][][] [][][][][][]
+ []
+
+<Images/mikroskop.png, id=57, 1124.2pt x 469.755pt>
+File: Images/mikroskop.png Graphic file (type png)
+<use Images/mikroskop.png>
+Package pdftex.def Info: Images/mikroskop.png  used on input line 302.
+(pdftex.def)             Requested size: 238.31897pt x 99.58464pt.
+
+Overfull \hbox (1.87416pt too wide) in paragraph at lines 302--303
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--313
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--320
+
+ []
+
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 307--321
+ []$$[]$ 
+ []
+
+<Images/vernrohr.png, id=58, 1138.2525pt x 415.5525pt>
+File: Images/vernrohr.png Graphic file (type png)
+<use Images/vernrohr.png>
+Package pdftex.def Info: Images/vernrohr.png  used on input line 331.
+(pdftex.def)             Requested size: 233.79485pt x 85.35826pt.
+
+Overfull \hbox (4.99998pt too wide) in paragraph at lines 327--333
+ []$$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--340
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--344
+
+ []
+
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 336--345
+ []$$[]$ 
+ []
+
+<Images/farbenkreise_subtraktiv.png, id=59, 39.08603pt x 39.08603pt>
+File: Images/farbenkreise_subtraktiv.png Graphic file (type png)
+<use Images/farbenkreise_subtraktiv.png>
+Package pdftex.def Info: Images/farbenkreise_subtraktiv.png  used on input line
+ 352.
+(pdftex.def)             Requested size: 56.91061pt x 56.9055pt.
+<Images/farbenkreise_additiv.png, id=60, 25.2945pt x 24.09pt>
+File: Images/farbenkreise_additiv.png Graphic file (type png)
+<use Images/farbenkreise_additiv.png>
+Package pdftex.def Info: Images/farbenkreise_additiv.png  used on input line 35
+6.
+(pdftex.def)             Requested size: 59.7508pt x 56.9055pt.
+) (./Sections/Schwingungen.tex
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 10--18
+ []$$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--30
+
+ []
+
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 21--31
+ []$$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
+[][][][][][][] [][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
+[][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
+
+ []
+
+<Images/harmonische_schwingung.png, id=61, 1268.74pt x 548.0475pt>
+File: Images/harmonische_schwingung.png Graphic file (type png)
+<use Images/harmonische_schwingung.png>
+Package pdftex.def Info: Images/harmonische_schwingung.png  used on input line 
+51.
+(pdftex.def)             Requested size: 197.60127pt x 85.35826pt.
+
+Overfull \hbox (44.40947pt too wide) in paragraph at lines 39--53
+ []$$[]$ 
+ []
+
+[3 <./Images/kamera.png> <./Images/lupe.png> <./Images/deutliche_sichtweite.png
+> <./Images/mikroskop.png> <./Images/vernrohr.png> <./Images/farbenkreise_subtr
+aktiv.png> <./Images/farbenkreise_additiv.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 61--66
+[][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--66
+[][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--66
+[][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--66
+[][][][][][]
+ []
+
+<Images/federpendel.png, id=72, 1153.30875pt x 584.1825pt>
+File: Images/federpendel.png Graphic file (type png)
+<use Images/federpendel.png>
+Package pdftex.def Info: Images/federpendel.png  used on input line 68.
+(pdftex.def)             Requested size: 224.67432pt x 113.81102pt.
+
+Overfull \hbox (4.99998pt too wide) in paragraph at lines 60--70
+ []$$[]$ 
+ []
+
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 78--92
+ []$$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--107
+[][][][][][][] [][][][][][] [][][][][][]
+ []
+
+<Images/drehpendel.png, id=73, 691.58376pt x 447.6725pt>
+File: Images/drehpendel.png Graphic file (type png)
+<use Images/drehpendel.png>
+Package pdftex.def Info: Images/drehpendel.png  used on input line 109.
+(pdftex.def)             Requested size: 131.8666pt x 85.35826pt.
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 101--111
+ []$$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--132
+[][][][][][][] [][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--132
+[][][][][][] [][][][][][] [][][][][][]
+ []
+
+<Images/schwerependel_mathematisch.png, id=74, 415.5525pt x 545.03625pt>
+File: Images/schwerependel_mathematisch.png Graphic file (type png)
+<use Images/schwerependel_mathematisch.png>
+Package pdftex.def Info: Images/schwerependel_mathematisch.png  used on input l
+ine 134.
+(pdftex.def)             Requested size: 86.76767pt x 113.81102pt.
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 125--136
+ []$$[]$ 
+ []
+
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 139--151
+ []$$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--166
+[][][][][][][]
+ []
+
+<Images/schwerependel_physikalisch.png, id=75, 753.81625pt x 1021.8175pt>
+File: Images/schwerependel_physikalisch.png Graphic file (type png)
+<use Images/schwerependel_physikalisch.png>
+Package pdftex.def Info: Images/schwerependel_physikalisch.png  used on input l
+ine 169.
+(pdftex.def)             Requested size: 83.95525pt x 113.81102pt.
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 158--171
+ []$$[]$ 
+ []
+
+<Images/traegheitsmomente.png, id=76, 951.555pt x 510.90875pt>
+File: Images/traegheitsmomente.png Graphic file (type png)
+<use Images/traegheitsmomente.png>
+Package pdftex.def Info: Images/traegheitsmomente.png  used on input line 174.
+(pdftex.def)             Requested size: 370.94524pt x 199.16928pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./Images/harmonische_schwingung.png> <./Images/federpendel.png> <./Images/
+drehpendel.png> <./Images/schwerependel_mathematisch.png> <./Images/schwerepend
+el_physikalisch.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 178--182
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--188
+
+ []
+
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 177--189
+ []$$[]$ 
+ []
+
+<Images/schwerependel_perkussionszentrum.png, id=85, 667.49374pt x 939.51pt>
+File: Images/schwerependel_perkussionszentrum.png Graphic file (type png)
+<use Images/schwerependel_perkussionszentrum.png>
+Package pdftex.def Info: Images/schwerependel_perkussionszentrum.png  used on i
+nput line 197.
+(pdftex.def)             Requested size: 101.06696pt x 142.26378pt.
+<Images/perkussionszentrum.png, id=86, 662.475pt x 903.375pt>
+File: Images/perkussionszentrum.png Graphic file (type png)
+<use Images/perkussionszentrum.png>
+Package pdftex.def Info: Images/perkussionszentrum.png  used on input line 200.
+
+(pdftex.def)             Requested size: 104.32014pt x 142.26378pt.
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 196--202
+ []$$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--213
+
+ []
+
+<Images/schwingung_energie.png, id=87, 808.01875pt x 634.37pt>
+File: Images/schwingung_energie.png Graphic file (type png)
+<use Images/schwingung_energie.png>
+Package pdftex.def Info: Images/schwingung_energie.png  used on input line 221.
+
+(pdftex.def)             Requested size: 163.08041pt x 128.0374pt.
+
+Overfull \hbox (4.99998pt too wide) in paragraph at lines 209--223
+ []$$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--242
+[][][][][][][] [][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--242
+[][][][][][] [][][][][][]
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 231--242
+[][][][][][] [][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--242
+[][][][][][] [][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--242
+[][][][][][] [][][][][][]
+ []
+
+<Images/gedaempfte_schwingung.png, id=88, 1142.2675pt x 589.20125pt>
+File: Images/gedaempfte_schwingung.png Graphic file (type png)
+<use Images/gedaempfte_schwingung.png>
+Package pdftex.def Info: Images/gedaempfte_schwingung.png  used on input line 2
+44.
+(pdftex.def)             Requested size: 248.21458pt x 128.0374pt.
+
+Overfull \hbox (11.76978pt too wide) in paragraph at lines 244--245
+[][] 
+ []
+
+
+Overfull \hbox (4.99998pt too wide) in paragraph at lines 230--246
+ []$$[]$ 
+ []
+
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 248--266
+ []$$[]$ 
+ []
+
+<Images/krafterregung_a.png, id=89, 526.96875pt x 768.8725pt>
+File: Images/krafterregung_a.png Graphic file (type png)
+<use Images/krafterregung_a.png>
+Package pdftex.def Info: Images/krafterregung_a.png  used on input line 275.
+(pdftex.def)             Requested size: 77.99658pt x 113.81102pt.
+<Images/krafterregung_b.png, id=90, 381.425pt x 493.845pt>
+File: Images/krafterregung_b.png Graphic file (type png)
+<use Images/krafterregung_b.png>
+Package pdftex.def Info: Images/krafterregung_b.png  used on input line 276.
+(pdftex.def)             Requested size: 65.92392pt x 85.35826pt.
+<Images/daempferregung.png, id=91, 487.8225pt x 885.3075pt>
+File: Images/daempferregung.png Graphic file (type png)
+<use Images/daempferregung.png>
+Package pdftex.def Info: Images/daempferregung.png  used on input line 280.
+(pdftex.def)             Requested size: 47.02843pt x 85.35826pt.
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 273--282
+ []$$[]$ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./Images/traegheitsmomente.png> <./Images/schwerependel_perkussionszentrum
+.png> <./Images/perkussionszentrum.png> <./Images/schwingung_energie.png> <./Im
+ages/gedaempfte_schwingung.png>]
+<Images/stuezerregung.png, id=101, 279.0425pt x 397.485pt>
+File: Images/stuezerregung.png Graphic file (type png)
+<use Images/stuezerregung.png>
+Package pdftex.def Info: Images/stuezerregung.png  used on input line 286.
+(pdftex.def)             Requested size: 59.92058pt x 85.35826pt.
+<Images/unwuchterregung.png, id=102, 796.9775pt x 489.83pt>
+File: Images/unwuchterregung.png Graphic file (type png)
+<use Images/unwuchterregung.png>
+Package pdftex.def Info: Images/unwuchterregung.png  used on input line 290.
+(pdftex.def)             Requested size: 138.87726pt x 85.35826pt.
+<Images/unwuchterregung_doppelt.png, id=103, 643.40375pt x 519.9425pt>
+File: Images/unwuchterregung_doppelt.png Graphic file (type png)
+<use Images/unwuchterregung_doppelt.png>
+Package pdftex.def Info: Images/unwuchterregung_doppelt.png  used on input line
+ 291.
+(pdftex.def)             Requested size: 105.62689pt x 85.35826pt.
+
+Overfull \hbox (52.28654pt too wide) in paragraph at lines 284--293
+ []$$[]$ 
+ []
+
+) (./Sections/Wellen.tex
+Overfull \hbox (83.8069pt too wide) in paragraph at lines 5--11
+ []$$[]$ 
+ []
+
+
+Overfull \hbox (83.8069pt too wide) in paragraph at lines 13--19
+ []$$[]$ 
+ []
+
+
+Overfull \hbox (83.8069pt too wide) in paragraph at lines 21--27
+ []$$[]$ 
+ []
+
+
+Overfull \hbox (83.8069pt too wide) in paragraph at lines 29--35
+ []$$[]$ 
+ []
+
+
+Overfull \hbox (83.8069pt too wide) in paragraph at lines 37--43
+ []$$[]$ 
+ []
+
+
+Overfull \hbox (83.8069pt too wide) in paragraph at lines 45--51
+ []$$[]$ 
+ []
+
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 53--59
+ []$$[]$ 
+ []
+
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 61--68
+ []$$[]$ 
+ []
+
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 70--76
+ []$$[]$ 
+ []
+
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 79--101
+ []$$[]$ 
+ []
+
+<Images/elastische_konstanten.png, id=104, 1291.82625pt x 634.37pt>
+File: Images/elastische_konstanten.png Graphic file (type png)
+<use Images/elastische_konstanten.png>
+Package pdftex.def Info: Images/elastische_konstanten.png  used on input line 1
+04.
+(pdftex.def)             Requested size: 318.67834pt x 156.49014pt.
+<Images/harmonische_welle.png, id=105, 1527.7075pt x 608.2725pt>
+File: Images/harmonische_welle.png Graphic file (type png)
+<use Images/harmonische_welle.png>
+Package pdftex.def Info: Images/harmonische_welle.png  used on input line 118.
+(pdftex.def)             Requested size: 214.36711pt x 85.35826pt.
+
+Overfull \hbox (83.81894pt too wide) in paragraph at lines 112--120
+ []$$[]$ 
+ []
+
+File: Images/prisma.png Graphic file (type png)
+<use Images/prisma.png>
+Package pdftex.def Info: Images/prisma.png  used on input line 155.
+(pdftex.def)             Requested size: 123.46976pt x 85.35826pt.
+[6 <./Images/krafterregung_a.png> <./Images/krafterregung_b.png> <./Images/daem
+pferregung.png> <./Images/stuezerregung.png> <./Images/unwuchterregung.png> <./
+Images/unwuchterregung_doppelt.png> <./Images/elastische_konstanten.png> <./Ima
+ges/harmonische_welle.png>]) [7
+
+] (./Physik3.aux) ) 
+Here is how much of TeX's memory you used:
+ 7477 strings out of 480806
+ 143776 string characters out of 5905150
+ 436766 words of memory out of 6000000
+ 24713 multiletter control sequences out of 15000+600000
+ 412181 words of font info for 49 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 60i,9n,67p,285b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathit.
+enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/
+usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/sha
+re/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texlive/texm
+f-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmex10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/lm/lmmi5.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/lm/lmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/lm/lmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy7.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/cm-super/sfti1000.pfb>
+Output written on Physik3.pdf (7 pages, 5461175 bytes).
+PDF statistics:
+ 176 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
+
