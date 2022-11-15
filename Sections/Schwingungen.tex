@@ -274,31 +274,152 @@
 \end{center}
 
 \subsection{Fremderregte Schwingung}
-
 \textbf{Formelsammlung 22.1.6 p.574}
+\subsubsection{Krafterregung und Federkrafterregung}
+\begin{center}
+	\begin{minipage}{0.3\textwidth}
+		\formula{$m \ddot{y} + b \dot{y} + c y = c u_0 \sin(\omega t)$}
+		\formula{$\omega_r = \omega_0 \sqrt{1 - 2 D^2}$}
+		\formula{$A = \dfrac{c u_0}{m \sqrt{(\omega^2_0 - \omega^2)^2 + (2 D \omega_0 \omega)^2}}$}
+		\formula{$\omega_d = \sqrt{\omega^2_0 - \delta^2}$}
+		\formula{$\varphi = \arctan \dfrac{2 D \omega_0 \omega}{\omega^2_0 - \omega^2}$}
+		\formula{$A_r = \dfrac{u_0}{2 D \sqrt{1 - D^2}}$}
+		\formula{$V = \dfrac{1}{\sqrt{(1 - \eta^2)^2 + (2 D \eta)^2}}$}
+		\formula{$D = \dfrac{\delta}{\omega_0}$}
+	\end{minipage}%%% to prevent a space
+	\begin{minipage}{0.2\textwidth}
+		\begin{center}
+			\includegraphics[height=4cm,keepaspectratio=true]{Images/krafterregung_a.png}
+			\includegraphics[height=3cm,keepaspectratio=true]{Images/krafterregung_b.png}
+		\end{center}
+	\end{minipage}
+\end{center}
 
+\unit{$\omega$}{Kreisfrequenz der Störung}{$\frac{rad}{s}$} \\
+\unit{$\omega_0$}{Kreisfrequenz der ungedämpften Schwingung}{$\frac{rad}{s}$} \\
+\unit{$\omega_d$}{Kreisfrequenz der gedämpften Schwingung}{$\frac{rad}{s}$} \\
+\unit{$\omega_r$}{Resonanzkreisfrequenz}{$\frac{rad}{s}$} \\
+\unit{$\delta$}{Abklingkonstante}{$\frac{1}{s}$} \\
+\unit{$\eta$}{dimensionslose Frequenz}{$1$} \\
+\unit{$A$}{Amplitude}{$m$} \\
+\unit{$A_r$}{Resonanzamplitude}{$m$} \\
+\unit{$D$}{Dämpfungsgrad}{$1$} \\
+\unit{$V$}{Vergrösserungsfunktion}{$?$} \\
+
+\subsubsection{Indirekte Federkrafterregung}
+\formula{$m \ddot{y} + b \dot{y} + c y = c_2 u_0 \sin(\omega t)$}
+\formula{$A = \dfrac{c_2}{c} \dfrac{c u_0}{m \sqrt{(\omega^2_0 - \omega^2)^2 + (2 D \omega_0 \omega)^2}}$}
+\formula{$\varphi = \arctan \dfrac{2 D \omega_0 \omega}{\omega^2_0 - \omega^2}$}
+\formula{$\omega_r = \omega_0 \sqrt{1 - 2 D^2}$}
+\formula{$A_r = \dfrac{u_0}{2 D \sqrt{1 - D^2}}$}
+\formula{$V = \dfrac{c_2}{c} \dfrac{1}{\sqrt{(1 - \eta^2)^2 + (2 D \eta)^2}}$}
+
+\unit{$\omega$}{Kreisfrequenz der Störung}{$\frac{rad}{s}$} \\
+\unit{$\omega_0$}{Kreisfrequenz der ungedämpften Schwingung}{$\frac{rad}{s}$} \\
+\unit{$\omega_r$}{Resonanzkreisfrequenz}{$\frac{rad}{s}$} \\
+\unit{$\eta$}{dimensionslose Frequenz}{$1$} \\
+\unit{$\varphi$}{Phase}{$rad$} \\
+\unit{$A$}{Amplitude}{$m$} \\
+\unit{$A_r$}{Resonanzamplitude}{$m$} \\
+\unit{$D$}{Dämpfungsgrad}{$1$} \\
+\unit{$V$}{Vergrösserungsfunktion}{$?$} \\
+
+\subsubsection{Dämpferregung}
 \begin{center}
-	\begin{minipage}{0.3\textwidth}
-		\subsubsection{Krafterregung}
-		\includegraphics[height=4cm,keepaspectratio=true]{Images/krafterregung_a.png}
-		\includegraphics[height=3cm,keepaspectratio=true]{Images/krafterregung_b.png}
-	\end{minipage}%%% to prevent a space
-	\begin{minipage}{0.3\textwidth}
-		\subsubsection{Dämpferregung}
-		\includegraphics[height=3cm,keepaspectratio=true]{Images/daempferregung.png}
-	\end{minipage}
-\end{center}
-\begin{center}
-	\begin{minipage}{0.16\textwidth}
-		\subsubsection{Stützerregung}
-		\includegraphics[height=3cm,keepaspectratio=true]{Images/stuezerregung.png}
-	\end{minipage}%%% to prevent a space
 	\begin{minipage}{0.4\textwidth}
-		\subsubsection{Unwuchterregung}
-		\includegraphics[height=3cm,keepaspectratio=true]{Images/unwuchterregung.png}
-		\includegraphics[height=3cm,keepaspectratio=true]{Images/unwuchterregung_doppelt.png}
+		\formula{$m \ddot{y} + b \dot{y} + c y = b \omega u_0 \sin(\omega t + \dfrac{\pi}{2})$}
+		\formula{$V = \dfrac{2 D \eta}{\sqrt{(1 - \eta^2)^2 + (2 D \eta)^2}}$}
+		\formula{$A = \dfrac{b \omega u_0}{m \sqrt{(\omega^2_0 - \omega^2)^2 + (2 D \omega_0 \omega)^2}}$}
+		\formula{$\varphi = \arctan \dfrac{2 D \omega_0 \omega}{\omega^2_0 - \omega^2} - \dfrac{\pi}{2}$}
+		\formula{$\omega_r = \omega_0$}
+		\formula{$A_r = u_0$}
+		\formula{$V = \dfrac{2 D \eta}{\sqrt{(1 - \eta^2)^2 + (2 D \eta)^2}}$}
+	\end{minipage}%%% to prevent a space
+	\begin{minipage}{0.1\textwidth}
+		\includegraphics[height=3cm,center,keepaspectratio=true]{Images/daempferregung.png}
 	\end{minipage}
 \end{center}
+
+\unit{$\omega$}{Kreisfrequenz der Störung}{$\frac{rad}{s}$} \\
+\unit{$\omega_0$}{Kreisfrequenz der ungedämpften Schwingung}{$\frac{rad}{s}$} \\
+\unit{$\omega_r$}{Resonanzkreisfrequenz}{$\frac{rad}{s}$} \\
+\unit{$\eta$}{dimensionslose Frequenz}{$1$} \\
+\unit{$\varphi$}{Phase}{$rad$} \\
+\unit{$A$}{Amplitude}{$m$} \\
+\unit{$A_r$}{Resonanzamplitude}{$m$} \\
+\unit{$D$}{Dämpfungsgrad}{$1$} \\
+\unit{$V$}{Vergrösserungsfunktion}{$?$} \\
+
+\subsubsection{Stützerregung}
+\begin{center}
+	\begin{minipage}{0.4\textwidth}
+		\formula{$m \ddot{y} + b \dot{y} + c y = c u_0 \sin(\omega t + b \omega) u_0 \cos(\omega t)$}
+		\formula{$m \ddot{q} + b \dot{q} + c q = m \omega^2 u_0 \sin(\omega t)$}
+		\formula{$A = \dfrac{\omega^2 u_0}{\sqrt{(\omega^2_0 - \omega^2)^2 + (2 D \omega_0 \omega)^2}}$}
+		\formula{$\varphi = \arctan \left(  \dfrac{2 D \omega_0 \omega}{\omega^2_0 - \omega^2} \right) - \pi$}
+		\formula{$\omega_r = \dfrac{\omega_0}{\sqrt{1 - 2 D^2}}$}
+		\formula{$A_r = \dfrac{u_0}{2 D \sqrt{1 - D^2}}$}
+		\formula{$V = \dfrac{\eta^2}{\sqrt{(1 - \eta^2)^2 + (2 D \eta)^2}}$}
+	\end{minipage}%%% to prevent a space
+	\begin{minipage}{0.1\textwidth}
+	\includegraphics[height=3cm,center,keepaspectratio=true]{Images/stuezerregung.png}
+	\end{minipage}
+\end{center}
+
+\unit{$\omega$}{Kreisfrequenz der Störung}{$\frac{rad}{s}$} \\
+\unit{$\omega_0$}{Kreisfrequenz der ungedämpften Schwingung}{$\frac{rad}{s}$} \\
+\unit{$\omega_r$}{Resonanzkreisfrequenz}{$\frac{rad}{s}$} \\
+\unit{$\eta$}{dimensionslose Frequenz}{$1$} \\
+\unit{$\varphi$}{Phase}{$rad$} \\
+\unit{$A$}{Amplitude}{$m$} \\
+\unit{$A_r$}{Resonanzamplitude}{$m$} \\
+\unit{$D$}{Dämpfungsgrad}{$1$} \\
+\unit{$V$}{Vergrösserungsfunktion}{$?$} \\
+
+\subsubsection{Unwuchterregung}
+\begin{center}
+	\begin{minipage}{0.25\textwidth}
+		\formula{$m \ddot{y} + b \dot{y} + c y = m_R e \omega \sin(\omega t)$}
+		\formula{$A = \dfrac{m_R e \omega^2}{\sqrt{(\omega^2_0 - \omega^2)^2 + (2 D \omega_0 \omega)^2}}$}
+		\formula{$\varphi = \arctan \dfrac{2 D \omega_0 \omega}{\omega^2_0 - \omega^2}$}
+		\formula{$\omega_r = \dfrac{\omega_0}{\sqrt{1 - 2 D^2}}$}
+		\formula{$A_r = \dfrac{m_R}{m} = \dfrac{e}{2 D \sqrt{1 - D^2}}$}
+		\formula{$\dfrac{F_{B0}}{F_0} = \sqrt{\dfrac{1 + 4 D^2 \eta^2}{(1 - \eta^2)^2 + 4 D^2 \eta^2}}$}
+	\end{minipage}%%% to prevent a space
+	\begin{minipage}{0.25\textwidth}
+		\includegraphics[height=3cm,center,keepaspectratio=true]{Images/unwuchterregung.png}
+		\includegraphics[height=3cm,center,keepaspectratio=true]{Images/unwuchterregung_doppelt.png}
+	\end{minipage}
+\end{center}
+
+\unit{$\omega$}{Kreisfrequenz der Störung}{$\frac{rad}{s}$} \\
+\unit{$\omega_0$}{Kreisfrequenz der ungedämpften Schwingung}{$\frac{rad}{s}$} \\
+\unit{$\omega_r$}{Resonanzkreisfrequenz}{$\frac{rad}{s}$} \\
+\unit{$\eta$}{dimensionslose Frequenz}{$1$} \\
+\unit{$\varphi$}{Phase}{$rad$} \\
+\unit{$A$}{Amplitude}{$m$} \\
+\unit{$A_r$}{Resonanzamplitude}{$m$} \\
+\unit{$D$}{Dämpfungsgrad}{$1$} \\
+
+\subsubsection{Serienschwingkreis}
+\formula{$L \ddot{I} + R_s \dot{I} + \dfrac{1}{C} I = \omega U_0 \sin(\omega t + \dfrac{\pi}{2})$}
+\formula{$I_0 = \dfrac{\omega U_0}{L \sqrt{(\omega^2_0 - \omega^2)^2 + (2 D \omega_0 \omega)^2}}$}
+\formula{$\varphi = \arctan \left( \dfrac{2 D \omega_0 \omega}{\omega^2_0 - \omega^2} \right) - \dfrac{\pi}{2}$}
+\formula{$\omega_r = \omega_0$}
+\formula{$I_{0r} = \dfrac{U_0}{R_s}$}
+\formula{$V = \dfrac{\eta^2}{\sqrt{(1 - \eta^2)^2 + (2 D \eta)^2}}$}
+\formula{$\varphi_U = \arctan \left( \dfrac{2 D \eta}{1 - \eta^2} \right) - \pi$}
+\formula{$D = \dfrac{R_s}{2} \sqrt{\dfrac{C}{L}}$}
+
+\subsubsection{Parallelschwingkreis}
+\formula{$L \ddot{U} + R_s \dot{U} + \dfrac{1}{L} U = \omega I_0 \sin(\omega t + \dfrac{\pi}{2})$}
+\formula{$U_0 = \dfrac{\omega I_0}{C \sqrt{(\omega^2_0 - \omega^2)^2 + (2 D \omega_0 \omega)^2}}$}
+\formula{$\varphi = \arctan \left( \dfrac{2 D \omega_0 \omega}{\omega^2_0 - \omega^2} \right) - \dfrac{\pi}{2}$}
+\formula{$\omega_r = \omega_0$}
+\formula{$U_{0r} = R_p I_0$}
+\formula{$V = \dfrac{1}{\sqrt{(1 - \eta^2)^2 + (2 D \eta)^2}}$}
+\formula{$\varphi_I = \arctan \left( \dfrac{2 D \eta}{1 - \eta^2} \right)$}
+\formula{$D = \dfrac{1}{2 R_p} \sqrt{\dfrac{L}{C}}$}
 
 
 
