@@ -105,14 +105,15 @@
 \end{center}
 
 
-
-
 \subsection{Harmonische Wellen}
 \begin{center}
 	\begin{minipage}{0.2\textwidth}
 		\formula{$u = \dfrac{\omega}{k}$}
 		\formula{$\lambda = \dfrac{2 \pi}{k} = \dfrac{u}{f}$}
+		\formula{$k = \dfrac{2 \pi}{\lambda}$}
 		\formula{$\omega = \dfrac{2 \pi}{T}$}
+		\formula{$f = \dfrac{1}{T}$}
+		
 	\end{minipage}%%% to prevent a space
 	\begin{minipage}{0.3\textwidth}
 		\includegraphics[height=3cm,keepaspectratio=true]{Images/harmonische_welle.png}
@@ -122,6 +123,72 @@
 
 
 
+\subsection{Wellenausbreitung}
+\subsubsection{Akustischer Doppler Effekt}
+\formula{$u = \sqrt{\dfrac{\varkappa R T}{M}}$}
+\begin{center}
+	\begin{minipage}{0.3\textwidth}
+		\textbf{Bewegte Quelle:}\\
+		\formula{$f' = \dfrac{1}{1 \mp \dfrac{v_Q}{u}} f$}
+		\formula{$f' = \dfrac{u}{\lambda'}$}
+		\formula{$\lambda' = \lambda - v_Q t$}
+	\end{minipage}%%% to prevent a space
+	\begin{minipage}{0.2\textwidth}
+		\includegraphics[height=3cm,keepaspectratio=true]{Images/akustischer_doppler_effekt_bewegte_quelle.png}
+	\end{minipage}
+\end{center}
+\begin{center}
+	\begin{minipage}{0.2\textwidth}
+		\textbf{Bewegter Quelle, unter Winkel:}\\
+		\formula{$f' = \dfrac{1}{1 - \dfrac{v_Q}{u} \cos(\vartheta_Q)}$}
+	\end{minipage}%%% to prevent a space
+	\begin{minipage}{0.3\textwidth}
+		\includegraphics[height=2cm,right,keepaspectratio=true]{Images/akustischer_doppler_effekt_bewegte_quelle_unter_winkel.png}
+	\end{minipage}
+\end{center}
+\begin{center}
+	\begin{minipage}{0.2\textwidth}
+		\textbf{Bewegter Beobachter:}\\
+		\formula{$f' = (1 \pm \dfrac{v_B}{u}) f$}
+	\end{minipage}%%% to prevent a space
+	\begin{minipage}{0.3\textwidth}
+		\includegraphics[height=1.5cm,right,keepaspectratio=true]{Images/akustischer_doppler_effekt_bewegter_beobachter.png}
+	\end{minipage}
+\end{center}
+\begin{center}
+	\begin{minipage}{0.3\textwidth}
+		\textbf{Bewegter Beobachter und bewegte Quelle:}\\
+		\formula{$f_B = \dfrac{u + v_B \cos(\vartheta_B)}{u - v_B \cos(\vartheta_Q)}$}
+	\end{minipage}%%% to prevent a space
+	\begin{minipage}{0.2\textwidth}
+		\includegraphics[height=2cm,right,keepaspectratio=true]{Images/akustischer_doppler_effekt_bewegter_beobachter_bewegte_quelle.png}
+	\end{minipage}
+\end{center}
+
+\begin{minipage}{0.25\textwidth}
+	\unit{$u$}{Schallgeschwindigkeit}{$\frac{m}{s}$} \\
+	\unit{$f'$}{Frequenz beim Beobachter}{$Hz$} \\
+	\unit{$v_Q$}{Geschwindigkeit der Quelle}{$\frac{m}{s}$} \\
+	\unit{$v_B$}{Geschwindigkeit des Beobachters}{$\frac{m}{s}$}
+\end{minipage}%%% to prevent a space
+\begin{minipage}{0.25\textwidth}
+	\unit{$\vartheta_Q$}{Winkel der Quelle}{$rad$} \\
+	\unit{$\vartheta_B$}{Winkel des Beobachters}{$rad$} \\
+	\unit{$\varkappa$}{Adiabatenexponent}{$1$} \\
+	\unit{$\lambda$}{Wellenlänge}{$m$}
+\end{minipage}
+
+
+
+
+
+
+\subsubsection{Optischer Doppler Effekt}
+\formula{$f' = \dfrac{\sqrt{1 - \beta^2}}{1 - \beta \cos(\vartheta)} f$}
+\formula{$\beta = \dfrac{v}{c}$}
+
+\unit{$v$}{Geschwindigkeit (Quelle oder Betrachter, eggal)}{$\frac{m}{s}$}\\
+\unit{$c$}{Lichtgeschwindigkeit}{$\frac{m}{s}$}
 
 
 
