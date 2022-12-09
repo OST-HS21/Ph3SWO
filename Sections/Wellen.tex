@@ -316,19 +316,37 @@
 
 
 
+\subsection{Interferenz}
+\begin{center}
+	\begin{minipage}{0.2\textwidth}
+		\formula{$\delta = 2 d n - \dfrac{\lambda}{2}$}
+		
+		\unitText{$\delta$}{Gangunterschied bei senkrechtem Einfall}{$?$}\\
+		\unitText{$d$}{Dicker des mittleren (dünnen) Mediums}{$m$}
+	\end{minipage}%%% to prevent a space
+	\begin{minipage}{0.3\textwidth}
+		\includegraphics[height=3cm,right,keepaspectratio=true]{Images/wellen_interferenz.png}
+	\end{minipage}
+\end{center}
+
+
+
+
+
 \subsection{Eigenschwingungen}
 \subsubsection{Saite}
 
 \begin{center}
-	\begin{minipage}{0.35\textwidth}
+	\begin{minipage}{0.3\textwidth}
 		\formula{$\lambda_n = \dfrac{2l}{n}$}
 		\formula{$f_n = \dfrac{u}{\lambda_n} = n f_1$}
 		\formula{$f_1 = \dfrac{1}{2l} \sqrt{\dfrac{F}{\varrho A}}$}
 		\formula{$u = \sqrt{\dfrac{F}{\varrho A}}$}
+		\formula{$\xi(x,t) = f(x) \sin(\omega t)$}
 		\formula{$F = \dfrac{4 l^2}{n^2} \varrho A f^2$}
 		\formula{$\Delta f = \left( \dfrac{E_{Sa}(\alpha_{Trag} - \alpha_{Sa})}{8 \varrho_{Sa} l^2 f^2 } -\alpha_{Trag} \right) \Delta T f $}
 	\end{minipage}%%% to prevent a space
-	\begin{minipage}{0.15\textwidth}
+	\begin{minipage}{0.2\textwidth}
 		\includegraphics[height=2.5cm,right,keepaspectratio=true]{Images/eigenschwingung_saite.png}
 	\end{minipage}
 \end{center}
@@ -348,7 +366,8 @@
 		\unitText{$\varrho$}{Dichte Saite}{$\frac{kg}{m^3}$}\\
 		\unitText{$\xi$}{Störung}{$...$}\\
 		\unitText{$\omega$}{Kreisfrequenz}{$\frac{1}{s}$}\\
-		\unitText{$\alpha$}{Längenausdehnungskoeffizient}{$\frac{1}{K}$}\\
+		\unitText{$\alpha_{Sa}$}{Längenausdehnungskoeff. der Saite}{$\frac{1}{K}$}\\
+		\unitText{$\alpha_{Trag}$}{Längenausdehnungskoeff. des Schallträgers}{$\frac{1}{K}$}\\
 		\unitText{$\varrho$}{Dichte}{$\frac{kg}{m^3}$}
 	\end{minipage}
 \end{center}
@@ -359,25 +378,25 @@
 \subsubsection{Pfeife}
 
 \begin{center}
-	\begin{minipage}{0.3\textwidth}
-		Offene Pfeife:
-		\formula{$f_1 = \dfrac{1}{2l} \sqrt{\dfrac{\varkappa R T}{M}} = \dfrac{u}{2l}$}
-		\formula{$f_n = n _1$}
-		\formula{$\lambda_n = \dfrac{4l}{n} \text{ für } n = 1,3,5,...$}
-		\\Gedackte Pfeife:
-		\formula{$f_1 = \dfrac{1}{4l} \sqrt{\dfrac{\varkappa R T}{M}} = \dfrac{u}{4l}$}
-		\formula{$f_n = n _1$}
-		\formula{$\lambda_n = \dfrac{4l}{n} \text{ für } n = 2,4,6,...$}
+	\begin{minipage}{0.25\textwidth}
+		\underline{Offene Pfeife:}
+		\formula{$f_0 = \dfrac{1}{2l} \sqrt{\dfrac{\varkappa R T}{M}} = \dfrac{u}{2l}$}
+		\formula{$f_n = f_0 (n + 1)$}
+		\formula{$\lambda_n = \dfrac{2l}{n+1} \text{ für } n = 0,1,2,...$}
+		\\\underline{Gedackte Pfeife:}
+		\formula{$f_0 = \dfrac{1}{4l} \sqrt{\dfrac{\varkappa R T}{M}} = \dfrac{u}{4l}$}
+		\formula{$f_n = f_0 (2 n + 1)$}
+		\formula{$\lambda_n = \dfrac{4l}{2 n + 1} \text{ für } n = 0,1,2,...$}
 	\end{minipage}%%% to prevent a space
-	\begin{minipage}{0.2\textwidth}
-		\includegraphics[height=3cm,right,keepaspectratio=true]{Images/eigenschwingung_pfeife.png}
+	\begin{minipage}{0.25\textwidth}
+		\includegraphics[height=4cm,right,keepaspectratio=true]{Images/eigenschwingung_pfeife.png}
 	\end{minipage}
 \end{center}
 \unitText{$M$}{Molmasse}{$\frac{kg}{mol}$}\\
 \unitText{$R$}{universelle Gas-Konstante (=8.3145)}{$\frac{J}{K mol}$}\\
 \unitText{$T$}{absolute Temperatur}{$K$}\\
 \unitText{$f$}{Frequenz}{$Hz$}\\
-\unitText{$f_1$}{Grundfrequenz}{$Hz$}\\
+\unitText{$f_0$}{Grundfrequenz}{$Hz$}\\
 \unitText{$\lambda$}{Wellenlänge}{$m$}\\
 \unitText{$\varkappa$}{Adiabatenexponent}{1}\\
 
