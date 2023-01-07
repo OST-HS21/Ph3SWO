@@ -63,19 +63,19 @@ Die \textbf{Minimalablenkung} entsteht wenn der Einfallswinkel gleich dem Ausfal
 
 \begin{center}
 	\begin{minipage}{0.3\textwidth}
-		\formula{$ n_2 = n_1 \dfrac{\sin\left(\dfrac{\varphi}{2}\right)}{\dfrac{\delta_{min} + \varphi}{2}} $}
 		\formula{$ \delta_{min} = 2 \arcsin(\frac{n_1}{n_2} \sin(\frac{\varphi}{2})) - \varphi $}
 	
-		Falls $ n_2 = 1 $ (Vakuum):
-		\formula{$ n_1 = \dfrac{\sin\left(\frac{\varphi + \delta}{2}\right)}{\frac{\varphi}{2}} $}
+		\formula{$ n_2 = \dfrac{\sin\left(\frac{\varphi + \delta_{min}}{2}\right)}{\sin \left(\frac{\varphi}{2}\right) } $}
+		
+		\formula{$ \delta = \varepsilon_1 + \varepsilon_1' - \varphi $}
 	\end{minipage}%%% to prevent a space
 	\begin{minipage}{0.3\textwidth}
 		\includegraphics[height=3cm,keepaspectratio=true]{Images/prisma.png}
 	\end{minipage}
 \end{center}
 
-\unitText{$ n_1 $}{Brechungsindex Prisma}{$1$} \\
-\unitText{$ n_2 $}{Brechungsindex Medium}{$1$} \\
+\unitText{$ n_1 $}{Brechungsindex umgebendes Medium}{$1$} \\
+\unitText{$ n_2 $}{Brechungsindex Prisma}{$1$} \\
 \unitText{$ \varphi $}{Scheitelwinkel}{$rad$} \\
 \unitText{$ \delta $}{Ablenkwinkel}{$rad$} \\
 
@@ -324,7 +324,7 @@ Die menschliche Sehschärfe beträgt ca. 1\SIUnitSymbolArcminute.
 \end{center}
 
 
-\subsubsection{Vernrohr}
+\subsubsection{Fernrohr}
 
 \begin{center}
 	\begin{minipage}{0.2\textwidth}
