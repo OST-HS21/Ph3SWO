@@ -78,7 +78,7 @@
 	\begin{minipage}{0.3\textwidth}
 		\unitText{$F_x$}{Kraft}{$N$} \\
 		\unitText{$T$}{Periode}{$s$} \\
-		\unitText{$a$}{Beschlaunigung}{$\frac{m}{s^2}$} \\
+		\unitText{$a$}{Beschleunigung}{$\frac{m}{s^2}$} \\
 		\unitText{$c$}{Federkonstante}{$\frac{N}{m}$} \\
 		\unitText{$m$}{Bewegte Masse}{$kg$}
 	\end{minipage}%%% to prevent a space
@@ -168,7 +168,7 @@
 			2 \pi \sqrt{\dfrac{J_S + m a^2}{m \cdot g \cdot a}} $}
 		\formula{$\omega_0 = \sqrt{\dfrac{m \cdot g \cdot a}{J_A}}$}
 		\formula{$l^* = \dfrac{J_A}{m a}$}
-		\formula{$J_A \ddot{\varphi} = m g a \sin(\varphi) = 0 $}
+		\formula{$J_A \ddot{\varphi} = m \cdot g \cdot a \cdot \sin(\varphi) = 0 $}
 		\formula{$J_A = J_S + m a^2$}
 		\formula{$\omega_{max} = \sqrt{\dfrac{g}{2} \sqrt{\dfrac{m}{J_S}}}$}
 		
@@ -197,15 +197,13 @@
 \end{center}
 
 
-
-
 \subsubsection{Perkussionszentrum}
 \begin{center}
 	\begin{minipage}{0.3\textwidth}
-		\includegraphics[height=5cm,keepaspectratio=true]{Images/schwerependel_perkussionszentrum.png}
+		\includegraphics[height=4cm,keepaspectratio=true]{Images/schwerependel_perkussionszentrum.png}
 	\end{minipage}%%% to prevent a space
 	\begin{minipage}{0.3\textwidth}
-		\includegraphics[height=5cm,keepaspectratio=true]{Images/perkussionszentrum.png}
+		\includegraphics[height=4cm,keepaspectratio=true]{Images/perkussionszentrum.png}
 	\end{minipage}
 \end{center}
 
@@ -274,7 +272,24 @@
 \end{center}
 
 \subsection{Fremderregte Schwingung}
-\textbf{Formelsammlung 22.1.6 p.574}
+\textbf{Formelsammlung Sourlier 22.1.6 p.574}
+\begin{center}
+	\begin{minipage}{0.28\textwidth}
+		\unitText{$\omega$}{Kreisfrequenz der Störung}{$\frac{rad}{s}$} \\
+		\unitText{$\omega_0$}{Kreisf. ungedämpfter Schwingung}{$\frac{rad}{s}$} \\
+		\unitText{$\omega_d$}{Kreisf. gedämpfter Schwingung}{$\frac{rad}{s}$} \\
+		\unitText{$\omega_r$}{Resonanzkreisfrequenz}{$\frac{rad}{s}$} \\
+		\unitText{$\delta$}{Abklingkonstante}{$\frac{1}{s}$}
+	\end{minipage}
+	\begin{minipage}{0.2\textwidth}
+		\unitText{$\eta$}{dimensionslose Frequenz}{$1$} \\
+		\unitText{$\varphi$}{Phase}{$rad$} \\
+		\unitText{$A$}{Amplitude}{$m$} \\
+		\unitText{$A_r$}{Resonanzamplitude}{$m$} \\
+		\unitText{$D$}{Dämpfungsgrad}{$1$} \\
+		\unitText{$V$}{Vergrösserungsfunktion}{$?$}
+	\end{minipage}
+\end{center}
 \subsubsection{Krafterregung und Federkrafterregung}
 \begin{center}
 	\begin{minipage}{0.3\textwidth}
@@ -295,17 +310,6 @@
 	\end{minipage}
 \end{center}
 
-\unitText{$\omega$}{Kreisfrequenz der Störung}{$\frac{rad}{s}$} \\
-\unitText{$\omega_0$}{Kreisfrequenz der ungedämpften Schwingung}{$\frac{rad}{s}$} \\
-\unitText{$\omega_d$}{Kreisfrequenz der gedämpften Schwingung}{$\frac{rad}{s}$} \\
-\unitText{$\omega_r$}{Resonanzkreisfrequenz}{$\frac{rad}{s}$} \\
-\unitText{$\delta$}{Abklingkonstante}{$\frac{1}{s}$} \\
-\unitText{$\eta$}{dimensionslose Frequenz}{$1$} \\
-\unitText{$A$}{Amplitude}{$m$} \\
-\unitText{$A_r$}{Resonanzamplitude}{$m$} \\
-\unitText{$D$}{Dämpfungsgrad}{$1$} \\
-\unitText{$V$}{Vergrösserungsfunktion}{$?$} \\
-
 \subsubsection{Indirekte Federkrafterregung}
 \formula{$m \ddot{y} + b \dot{y} + c y = c_2 u_0 \sin(\omega t)$}
 \formula{$A = \dfrac{c_2}{c} \dfrac{c u_0}{m \sqrt{(\omega^2_0 - \omega^2)^2 + (2 D \omega_0 \omega)^2}}$}
@@ -314,15 +318,10 @@
 \formula{$A_r = \dfrac{u_0}{2 D \sqrt{1 - D^2}}$}
 \formula{$V = \dfrac{c_2}{c} \dfrac{1}{\sqrt{(1 - \eta^2)^2 + (2 D \eta)^2}}$}
 
-\unitText{$\omega$}{Kreisfrequenz der Störung}{$\frac{rad}{s}$} \\
-\unitText{$\omega_0$}{Kreisfrequenz der ungedämpften Schwingung}{$\frac{rad}{s}$} \\
-\unitText{$\omega_r$}{Resonanzkreisfrequenz}{$\frac{rad}{s}$} \\
-\unitText{$\eta$}{dimensionslose Frequenz}{$1$} \\
-\unitText{$\varphi$}{Phase}{$rad$} \\
-\unitText{$A$}{Amplitude}{$m$} \\
-\unitText{$A_r$}{Resonanzamplitude}{$m$} \\
-\unitText{$D$}{Dämpfungsgrad}{$1$} \\
-\unitText{$V$}{Vergrösserungsfunktion}{$?$} \\
+
+
+
+
 
 \subsubsection{Dämpferregung}
 \begin{center}
@@ -340,15 +339,6 @@
 	\end{minipage}
 \end{center}
 
-\unitText{$\omega$}{Kreisfrequenz der Störung}{$\frac{rad}{s}$} \\
-\unitText{$\omega_0$}{Kreisfrequenz der ungedämpften Schwingung}{$\frac{rad}{s}$} \\
-\unitText{$\omega_r$}{Resonanzkreisfrequenz}{$\frac{rad}{s}$} \\
-\unitText{$\eta$}{dimensionslose Frequenz}{$1$} \\
-\unitText{$\varphi$}{Phase}{$rad$} \\
-\unitText{$A$}{Amplitude}{$m$} \\
-\unitText{$A_r$}{Resonanzamplitude}{$m$} \\
-\unitText{$D$}{Dämpfungsgrad}{$1$} \\
-\unitText{$V$}{Vergrösserungsfunktion}{$?$} \\
 
 \subsubsection{Stützerregung}
 \begin{center}
@@ -366,15 +356,7 @@
 	\end{minipage}
 \end{center}
 
-\unitText{$\omega$}{Kreisfrequenz der Störung}{$\frac{rad}{s}$} \\
-\unitText{$\omega_0$}{Kreisfrequenz der ungedämpften Schwingung}{$\frac{rad}{s}$} \\
-\unitText{$\omega_r$}{Resonanzkreisfrequenz}{$\frac{rad}{s}$} \\
-\unitText{$\eta$}{dimensionslose Frequenz}{$1$} \\
-\unitText{$\varphi$}{Phase}{$rad$} \\
-\unitText{$A$}{Amplitude}{$m$} \\
-\unitText{$A_r$}{Resonanzamplitude}{$m$} \\
-\unitText{$D$}{Dämpfungsgrad}{$1$} \\
-\unitText{$V$}{Vergrösserungsfunktion}{$?$} \\
+\pagebreak
 
 \subsubsection{Unwuchterregung}
 \begin{center}
@@ -392,14 +374,23 @@
 	\end{minipage}
 \end{center}
 
-\unitText{$\omega$}{Kreisfrequenz der Störung}{$\frac{rad}{s}$} \\
-\unitText{$\omega_0$}{Kreisfrequenz der ungedämpften Schwingung}{$\frac{rad}{s}$} \\
-\unitText{$\omega_r$}{Resonanzkreisfrequenz}{$\frac{rad}{s}$} \\
-\unitText{$\eta$}{dimensionslose Frequenz}{$1$} \\
-\unitText{$\varphi$}{Phase}{$rad$} \\
-\unitText{$A$}{Amplitude}{$m$} \\
-\unitText{$A_r$}{Resonanzamplitude}{$m$} \\
-\unitText{$D$}{Dämpfungsgrad}{$1$} \\
+\begin{center}
+	\begin{minipage}{0.28\textwidth}
+		\unitText{$\omega$}{Kreisfrequenz der Störung}{$\frac{rad}{s}$} \\
+		\unitText{$\omega_0$}{Kreisf. ungedämpfter Schwingung}{$\frac{rad}{s}$} \\
+		\unitText{$\omega_r$}{Resonanzkreisfrequenz}{$\frac{rad}{s}$} \\
+		\unitText{$\eta$}{dimensionslose Frequenz}{$1$} \\
+		\unitText{$\varphi$}{Phase}{$rad$}
+	\end{minipage}
+	\begin{minipage}{0.2\textwidth}
+		\unitText{$A$}{Amplitude}{$m$} \\
+		\unitText{$A_r$}{Resonanzamplitude}{$m$} \\
+		\unitText{$D$}{Dämpfungsgrad}{$1$} \\
+		\unitText{$V$}{Vergrösserungsfunktion}{$?$}
+	\end{minipage}
+\end{center}
+
+
 
 \subsubsection{Serienschwingkreis}
 \formula{$L \ddot{I} + R_s \dot{I} + \dfrac{1}{C} I = \omega U_0 \sin(\omega t + \dfrac{\pi}{2})$}
