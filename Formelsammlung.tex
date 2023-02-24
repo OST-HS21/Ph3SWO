@@ -11,7 +11,7 @@
 \usepackage{titlesec}
 \usepackage[export]{adjustbox}
 \usepackage[left=10.00mm, right=10.00mm, top=5.00mm, bottom=15.00mm]{geometry}
-
+\usepackage{fancyhdr}
 
 
 \title{Physik 3 \\ [1ex] \large Zusammenfassung}
@@ -38,6 +38,9 @@
 
 
 \begin{document}
+	\pagestyle{fancy}
+	\fancyfoot[L]{Sebastian Humbel, \today}
+	\fancyfoot[R]{https://github.com/OST-HS21/Ph3SWO}
 
 \input{Sections/Optik}
 \input{Sections/Schwingungen}
